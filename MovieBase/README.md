@@ -1,4 +1,6 @@
-# Installation
+# Installation 
+
+** You MUST have the Facebook SDK downloaded and configured with Xcode **
 
 ```yarn install```
 
